@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Archive | 个人博客</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page">
+    <aside class="left">
+      <div class="panel">
+        <div class="brand">你的名字<small>personal notes</small></div>
+      </div>
+
+      <div class="panel search">
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="搜索笔记与页面" />
+      </div>
+
+      <div class="panel toggles">
+        <button id="themeToggle" class="toggle">Dark mode</button>
+        <button id="readerToggle" class="toggle">Reader mode</button>
+      </div>
+
+      <div class="panel explorer">
+        <h2>Explorer</h2>
+        <ul id="explorerList" class="stagger">
+          <li><a href="index.html">关于我</a></li>
+          <li><a href="posts/graphics-pipeline.html">图形管线速记</a></li>
+          <li><a href="posts/vulkan-notes.html">Vulkan 学习清单</a></li>
+          <li><a href="archive.html">Archive</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="content">
+      <article>
+        <div class="archive-header">
+          <div>
+            <h1>Archive</h1>
+            <div class="meta">所有文章按时间整理</div>
+          </div>
+          <input id="archiveSearch" type="search" placeholder="筛选标题" />
+        </div>
+        <ul id="archiveList" class="archive-list stagger">
+          <li><a href="posts/vulkan-notes.html">2026-03-10 · Vulkan 学习清单</a></li>
+          <li><a href="posts/graphics-pipeline.html">2026-02-28 · 图形管线速记</a></li>
+          <li><a href="index.html">2026-02-12 · 关于我</a></li>
+        </ul>
+      </article>
+    </main>
+
+    <aside class="right">
+      <div class="panel">
+        <h3>Tags</h3>
+        <p><span class="pill">graphics</span> <span class="pill">notes</span> <span class="pill">tools</span></p>
+      </div>
+      <div class="panel">
+        <h3>Now</h3>
+        <p>正在整理知识结构与页面模板。</p>
+      </div>
+    </aside>
+  </div>
+
+  <footer>Hand-crafted notes, 2026.</footer>
+  <script src="app.js"></script>
+</body>
+</html>

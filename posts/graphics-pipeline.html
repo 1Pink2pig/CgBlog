@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>图形管线速记 | 个人博客</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <div class="page">
+    <aside class="left">
+      <div class="panel">
+        <div class="brand">你的名字<small>personal notes</small></div>
+      </div>
+
+      <div class="panel search">
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="搜索笔记与页面" />
+      </div>
+
+      <div class="panel toggles">
+        <button id="themeToggle" class="toggle">Dark mode</button>
+        <button id="readerToggle" class="toggle">Reader mode</button>
+      </div>
+
+      <div class="panel explorer">
+        <h2>Explorer</h2>
+        <ul id="explorerList" class="stagger">
+          <li><a href="../index.html">关于我</a></li>
+          <li><a href="graphics-pipeline.html">图形管线速记</a></li>
+          <li><a href="vulkan-notes.html">Vulkan 学习清单</a></li>
+          <li><a href="../archive.html">Archive</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="content">
+      <article>
+        <h1>图形管线速记</h1>
+        <div class="meta">2026-02-28 · 4 min read</div>
+        <p>这篇记录梳理了传统图形管线中最容易混淆的环节，方便在实现渲染器时快速定位瓶颈。</p>
+        <h2>关键阶段</h2>
+        <ul class="stagger">
+          <li>输入装配：顶点格式、实例化数据、空间变换。</li>
+          <li>几何处理：剔除、细分、裁剪。</li>
+          <li>光栅化：屏幕空间划分，深度与模板测试。</li>
+          <li>片元着色：材质与光照模型，后处理叠加。</li>
+        </ul>
+        <h2>调试提示</h2>
+        <div class="callout">
+          优先检查数据流动链路，确保每一步输出符合预期，再逐层打开复杂的后处理。
+        </div>
+        <p>相关资源：<a href="vulkan-notes.html">Vulkan 学习清单</a>。</p>
+      </article>
+    </main>
+
+    <aside class="right">
+      <div class="panel">
+        <h3>Related</h3>
+        <p><a href="vulkan-notes.html">Vulkan 学习清单</a></p>
+      </div>
+      <div class="panel">
+        <h3>Status</h3>
+        <p>待补充：延迟渲染与光照剖析。</p>
+      </div>
+    </aside>
+  </div>
+
+  <footer>Hand-crafted notes, 2026.</footer>
+  <script src="../app.js"></script>
+</body>
+</html>

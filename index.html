@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>你的名字 | 个人博客</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page">
+    <aside class="left">
+      <div class="panel">
+        <div class="brand">你的名字<small>personal notes</small></div>
+      </div>
+
+      <div class="panel search">
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="搜索笔记与页面" />
+      </div>
+
+      <div class="panel toggles">
+        <button id="themeToggle" class="toggle">Dark mode</button>
+        <button id="readerToggle" class="toggle">Reader mode</button>
+      </div>
+
+      <div class="panel explorer">
+        <h2>Explorer</h2>
+        <ul id="explorerList" class="stagger">
+          <li><a href="index.html">关于我</a></li>
+          <li><a href="posts/graphics-pipeline.html">图形管线速记</a></li>
+          <li><a href="posts/vulkan-notes.html">Vulkan 学习清单</a></li>
+          <li><a href="archive.html">Archive</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="content">
+      <article>
+        <h1>关于我</h1>
+        <div class="meta">2026-03-11 · 2 min read</div>
+        <p>这里是我的个人知识库，用来记录学习路径、项目复盘和灵感清单。页面结构参考了 Quartz 风格的数字花园，强调轻量、易读和可持续整理。</p>
+        <div class="callout">
+          你可以把这里当作可公开的工作台：随时添加新页面，把草稿整理成清晰的笔记。
+        </div>
+        <h2>正在关注的主题</h2>
+        <ul class="stagger">
+          <li>实时渲染与图形管线</li>
+          <li>可视化工具链与调试方法</li>
+          <li>高效学习与知识管理实践</li>
+        </ul>
+        <p>下一步计划：完善 <a href="archive.html">Archive</a>，把最近的学习笔记分类整理。</p>
+        <p><span class="pill">更新频率：每周 2-3 篇</span></p>
+      </article>
+    </main>
+
+    <aside class="right">
+      <div class="panel">
+        <h3>Graph View</h3>
+        <svg viewBox="0 0 240 140" fill="none" stroke="currentColor" stroke-width="1.2">
+          <circle cx="40" cy="30" r="12" />
+          <circle cx="120" cy="40" r="16" />
+          <circle cx="200" cy="32" r="10" />
+          <circle cx="70" cy="100" r="14" />
+          <circle cx="160" cy="98" r="12" />
+          <path d="M52 34 L104 38" />
+          <path d="M136 40 L188 34" />
+          <path d="M50 40 L68 88" />
+          <path d="M118 56 L78 92" />
+          <path d="M130 56 L154 88" />
+        </svg>
+      </div>
+      <div class="panel">
+        <h3>Latest</h3>
+        <p><a href="posts/vulkan-notes.html">Vulkan 学习清单</a></p>
+        <p><a href="posts/graphics-pipeline.html">图形管线速记</a></p>
+      </div>
+      <div class="panel">
+        <h3>Contact</h3>
+        <p>邮箱: yourname@email.com</p>
+        <p>GitHub: yourname</p>
+      </div>
+    </aside>
+  </div>
+
+  <footer>Hand-crafted notes, 2026.</footer>
+  <script src="app.js"></script>
+</body>
+</html>
