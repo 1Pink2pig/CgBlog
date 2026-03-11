@@ -50,7 +50,150 @@
           <li>导入场景后，通过命令 `r.Nanite.ViewMeshLODBias.Offset` 调整 LOD bias 以直观看体素化效果。</li>
         </ul>
 
-        <h2>Nanite Voxel 核心流程</h2>
+        <h2>原文配图（按顺序）</h2>
+        <div class="media-stack">
+          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-01.png" alt="图 1 · 原文配图" />
+            <figcaption>图 1 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-02.png" alt="图 2 · 原文配图" />
+            <figcaption>图 2 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-03.png" alt="图 3 · 原文配图" />
+            <figcaption>图 3 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-04.png" alt="图 4 · 原文配图" />
+            <figcaption>图 4 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-05.png" alt="图 5 · 原文配图" />
+            <figcaption>图 5 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-06.png" alt="图 6 · 原文配图" />
+            <figcaption>图 6 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-07.png" alt="图 7 · 原文配图" />
+            <figcaption>图 7 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-08.png" alt="图 8 · 原文配图" />
+            <figcaption>图 8 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-09.png" alt="图 9 · 原文配图" />
+            <figcaption>图 9 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-10.png" alt="图 10 · 原文配图" />
+            <figcaption>图 10 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-11.png" alt="图 11 · 原文配图" />
+            <figcaption>图 11 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-12.png" alt="图 12 · 顶点格式整合：汇总所有子簇的最宽顶点格式；若子簇包含颜色，则开启颜色通道。" />
+            <figcaption>图 12 · 顶点格式整合：汇总所有子簇的最宽顶点格式；若子簇包含颜色，则开启颜色通道。</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-13.png" alt="图 13 · 原文配图" />
+            <figcaption>图 13 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-14.png" alt="图 14 · 原文配图" />
+            <figcaption>图 14 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-15.png" alt="图 15 · 原文配图" />
+            <figcaption>图 15 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-16.png" alt="图 16 · 原文配图" />
+            <figcaption>图 16 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-17.png" alt="图 17 · 原文配图" />
+            <figcaption>图 17 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-18.png" alt="图 18 · 使用提前创建好的rays，按照16根ray一组" />
+            <figcaption>图 18 · 使用提前创建好的rays，按照16根ray一组</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-19.png" alt="图 19 · 原文配图" />
+            <figcaption>图 19 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-20.png" alt="图 20 · 原文配图" />
+            <figcaption>图 20 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-21.png" alt="图 21 · 原文配图" />
+            <figcaption>图 21 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-22.png" alt="图 22 · 原文配图" />
+            <figcaption>图 22 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-23.png" alt="图 23 · 原文配图" />
+            <figcaption>图 23 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-24.png" alt="图 24 · 原文配图" />
+            <figcaption>图 24 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-25.png" alt="图 25 · 原文配图" />
+            <figcaption>图 25 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-26.png" alt="图 26 · 原文配图" />
+            <figcaption>图 26 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-27.png" alt="图 27 · 原文配图" />
+            <figcaption>图 27 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-28.png" alt="图 28 · 原文配图" />
+            <figcaption>图 28 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-29.png" alt="图 29 · 原文配图" />
+            <figcaption>图 29 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-30.png" alt="图 30 · 原文配图" />
+            <figcaption>图 30 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-31.png" alt="图 31 · 原文配图" />
+            <figcaption>图 31 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-32.png" alt="图 32 · 原文配图" />
+            <figcaption>图 32 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-33.png" alt="图 33 · 原文配图" />
+            <figcaption>图 33 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-34.png" alt="图 34 · 原文配图" />
+            <figcaption>图 34 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-35.png" alt="图 35 · 原文配图" />
+            <figcaption>图 35 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-36.png" alt="图 36 · 原文配图" />
+            <figcaption>图 36 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-37.png" alt="图 37 · 原文配图" />
+            <figcaption>图 37 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-38.png" alt="图 38 · 原文配图" />
+            <figcaption>图 38 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-39.png" alt="图 39 · 原文配图" />
+            <figcaption>图 39 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-40.png" alt="图 40 · 参考UE实现，UE已经弄了一个SGGX法线分布" />
+            <figcaption>图 40 · 参考UE实现，UE已经弄了一个SGGX法线分布</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-41.png" alt="图 41 · 原文配图" />
+            <figcaption>图 41 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-42.png" alt="图 42 · 原文配图" />
+            <figcaption>图 42 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-43.png" alt="图 43 · 2、方向性材质矩" />
+            <figcaption>图 43 · 2、方向性材质矩</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-44.png" alt="图 44 · 原文配图" />
+            <figcaption>图 44 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-45.png" alt="图 45 · 原文配图" />
+            <figcaption>图 45 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-46.png" alt="图 46 · 原文配图" />
+            <figcaption>图 46 · 原文配图</figcaption>
+          </figure>          <figure class="media-item">
+            <img src="../assets/ue-nanite-voxel/img-47.png" alt="图 47 · 原文配图" />
+            <figcaption>图 47 · 原文配图</figcaption>
+          </figure>        </div>\n        <h2>Nanite Voxel 核心流程</h2>
         <div class="callout">
           流程可概括为三段：体素化 cluster、处理体素三角簇子簇、体素渲染。
         </div>
@@ -181,3 +324,4 @@ VoxelSize = max(VoxelSize, Group.ParentLODError)（不低于当前父误差）</
   <script src="../app.js"></script>
 </body>
 </html>
+
