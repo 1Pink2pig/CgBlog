@@ -1,0 +1,183 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UE Nanite 体素 | 个人博客</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <div class="page">
+    <aside class="left">
+      <div class="panel">
+        <div class="brand">你的名字<small>personal notes</small></div>
+      </div>
+
+      <div class="panel search">
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="搜索笔记与页面" />
+      </div>
+
+      <div class="panel toggles">
+        <button id="themeToggle" class="toggle">Dark mode</button>
+        <button id="readerToggle" class="toggle">Reader mode</button>
+      </div>
+
+      <div class="panel explorer">
+        <h2>Explorer</h2>
+        <ul id="explorerList" class="stagger">
+          <li><a href="../index.html">关于我</a></li>
+          <li><a href="ue-nanite-voxel.html">UE Nanite 体素</a></li>
+          <li><a href="graphics-pipeline.html">图形管线速记</a></li>
+          <li><a href="vulkan-notes.html">Vulkan 学习清单</a></li>
+          <li><a href="../archive.html">Archive</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="content">
+      <article>
+        <h1>UE Nanite 体素</h1>
+        <div class="meta">2026-03-11 · 8 min read</div>
+        <p>这篇笔记整理了 UE Nanite 体素流程的关键路径，并记录了自己在阅读代码与论文时的理解与疑问。</p>
+
+        <h2>参考与复现步骤</h2>
+        <ul class="stagger">
+          <li>主要参考：<a href="https://zhuanlan.zhihu.com/p/1962121162306846748" target="_blank" rel="noreferrer">顺藤摸瓜的 Nanite 体素文章</a>。</li>
+          <li>项目设置中勾选 Nanite 植被。</li>
+          <li>启用 <strong>Procedural Vegetation Editor</strong> 插件。</li>
+          <li>创建 Nanite 体素植被（插件自带多种植被，可直接导出查看效果）。</li>
+          <li>导入场景后，通过命令 `r.Nanite.ViewMeshLODBias.Offset` 调整 LOD bias 以直观看体素化效果。</li>
+        </ul>
+
+        <h2>Nanite Voxel 核心流程</h2>
+        <div class="callout">
+          流程可概括为三段：体素化 cluster、处理体素三角簇子簇、体素渲染。
+        </div>
+
+        <h3>阶段一：cluster 三角簇体素化（`cluster.cpp`）</h3>
+        <h4>VoxelSize 计算方式</h4>
+        <p>初始体素尺寸：</p>
+        <pre><code>GroupArea = 子簇表面积（考虑实例缩放）
+VoxelSize = sqrt(GroupArea / TargetNumVoxels) × 0.75
+VoxelSize = max(VoxelSize, Group.ParentLODError)（不低于当前父误差）</code></pre>
+        <p>若最终不满足“体素化尺寸 &lt; 三角形简化误差”，则 fallback 到三角形路径。</p>
+
+        <h4>顶点格式整合</h4>
+        <p>汇总所有子簇的最宽顶点格式；若子簇包含颜色，则开启颜色通道。</p>
+
+        <h4>粗略体素化：VoxelTri26</h4>
+        <ul class="stagger">
+          <li>对三角簇内每个三角形先转换至世界坐标，再根据体素尺寸转换到体素分辨率。</li>
+          <li>通过 `Rasterizer.h` 下的 `Voxelize` 写入三角形所有触及体素。</li>
+          <li>`VoxelizeTri26` 是保守光栅化算法，选择法线最垂直的投影面作为 main 投影面。</li>
+          <li>三个投影面同时通过，则回调写入体素并记录三角重心坐标，用于后续插值（对应 `VoxelMap.add`）。</li>
+          <li>若已经是体素砖形式，则走对应逻辑写入 `voxelmap`。</li>
+        </ul>
+
+        <h4>RAY_TRACE_VOXELS：体素剔除与合并</h4>
+        <ul class="stagger">
+          <li>打开开关后，对每一个体素做一次 `ray_tracc_scene` 采样三角形表面。</li>
+          <li>使用提前创建好的 rays：每 16 根一组，共 64 组，循环索引让空间相邻体素使用不同模式以避免 pattern。</li>
+          <li>对每个体素计算 coverage（代表“厚薄”）。</li>
+          <li>coverage = 0.0 的体素被剔除，放入 `ExtraVoxels` 备用。</li>
+          <li>`coverageHeap` 小顶堆对覆盖率低的体素做合并（需保证 `bVoxelOpacity = false`，默认开启）。</li>
+          <li>合并规则：根据射线统计的法线朝向分布，法线投影面大的邻居权重更高；体素自身越“实心”，吸收新属性越少；覆盖率低的体素更保留原属性。</li>
+        </ul>
+
+        <h4>生成体素顶点与体素打包成砖</h4>
+        <ul class="stagger">
+          <li>通过命中三角重心执行 `LerpAttributes`。</li>
+          <li>`voxelmap &lt;key, value&gt;`，key 是体素坐标，value 是体素顶点索引。</li>
+          <li>体素按空间 4×4×4 划分排序，优先材质排序，再按 Z-Y-X。</li>
+          <li>砖块位置对齐到 4，一个砖块内体素材质相同。</li>
+        </ul>
+
+        <h3>阶段二：处理体素三角簇子簇</h3>
+        <ul class="stagger">
+          <li>计算砖块内体素平均位置作为砖块中心，随机选择一个体素作为属性来源。</li>
+          <li>法线：若开启 `bVoxelNDF` 则用 NDF，否则来自随机体素属性。</li>
+          <li>位置：体素砖平均位置。</li>
+          <li>大小：体素砖的实心程度。</li>
+          <li>属性：来源于随机体素。</li>
+          <li>对所有子簇处理后，父簇变成普通三角簇，带 `bVoxelTriangle` 标记与 `VoxelTriangle` 数组。</li>
+        </ul>
+
+        <h3>阶段三：Nanite Voxel 渲染</h3>
+        <p>代码见 `NaniteRasterizer.usf`，入口函数为 `ClusterTraceBricks`。</p>
+        <ul class="stagger">
+          <li>总体思路：从像素 raymarching 体素砖。</li>
+          <li>只拿到 `visibleCluster`。</li>
+          <li>对体素砖计算近似屏幕空间范围，范围内像素才做体素追踪。</li>
+        </ul>
+        <p>渲染单位为体素砖，在投影像素范围内：</p>
+        <ul class="stagger">
+          <li>AABB 检测，不相交则跳过。</li>
+          <li>DDA 算法：为 4×4×4 数据结构优化，步进规则固定为 `x ±1, y ±4, z ±16`。</li>
+          <li>遍历体素砖，命中体素即 break，写入像素深度与体素顶点信息。</li>
+        </ul>
+
+        <h2>总结与理解</h2>
+        <p>Nanite Voxel 本身流程相对清晰，但理解 Nanite 体系的整体流程更耗时。参考文章：</p>
+        <ul class="stagger">
+          <li><a href="https://zhuanlan.zhihu.com/p/1674561095" target="_blank" rel="noreferrer">Nanite 流程解读（知乎）</a></li>
+          <li><a href="https://mangosister.github.io/scene_agn_site/" target="_blank" rel="noreferrer">Scene-agnostic Synthesis</a></li>
+        </ul>
+        <p>一旦 DDA 写入 visibility buffer，后续渲染流程便不再区分像素来源是体素还是三角形。</p>
+
+        <h2>传统体素问题与论文方案</h2>
+        <h3>问题一：相关性问题</h3>
+        <ul class="stagger">
+          <li>体素内几何并非均匀填充。</li>
+          <li>Aggregated Interior Visibility（AIV）用于解决体素累计的可见性误差。</li>
+          <li>体素有厚度，当像素平面不与体素轴对齐时，一个 pixel 会接收多个体素贡献，即便体素分辨率已达到像素的两倍。</li>
+        </ul>
+        <p>Nanite Voxel 在渲染时命中一个体素即停止写入，不代表该问题不存在。</p>
+        <p>第二层原因：体素化滤波/降采样导致几何相关性丢失。`RAY_TRACE_VOXELS` 用射线统计覆盖率与法线分布，本质是平均。</p>
+        <p>论文提出的方案：</p>
+        <ul class="stagger">
+          <li>用截断椭球解决局部相关性。</li>
+          <li>Aggregated Boundary Visibility（ABV）。</li>
+        </ul>
+
+        <h3>问题二：体素应该存什么</h3>
+        <p>核心诉求：让体素从离散网格变成近似的“物理模型”。论文提出 ABSDF（可理解为体素材质）。</p>
+
+        <h2>对 Nanite Voxel 的改造设想</h2>
+        <p>代码里 `bVoxelOpacity` 注释了 TEMP，目前信息都存在体素顶点里。</p>
+        <ol class="stagger">
+          <li>改造 DDA 为累计砖内体素，暴露 double counting 与材质混合问题（ABSDF）。</li>
+          <li>给 Nanite Voxel 引入新的材质处理逻辑。</li>
+        </ol>
+        <p>个人理解：ABSDF 本质是为每个体素记录材质以解决累计问题，而截断椭球只是其中各向异性的一项。</p>
+        <p>因此若要粗糙实现论文效果，需要改变 `RAY_TRACE_VOXELS` 的统计逻辑。</p>
+        <p>现有逻辑：材质来自最后一次命中的三角形。</p>
+
+        <h2>疑问与待补充</h2>
+        <ul class="stagger">
+          <li>是为每个体素顶点构造新材质，还是为每个体素记录统计数据？</li>
+          <li>UE 已有 SGGX 法线分布，还需要补哪些量？</li>
+          <li>新增粗糙度表示、方向性材质矩阵、各向异性表、截断椭球函数、AIV 函数。</li>
+          <li>如果实现论文的 Voxle 渲染 Pass，与 VXGI 似乎相距甚远。</li>
+          <li>VXGI 的 cone tracing 以体素做 GI，Nanite 体素与 cone tracing 的结合点仍不清晰。</li>
+        </ul>
+      </article>
+    </main>
+
+    <aside class="right">
+      <div class="panel">
+        <h3>Related</h3>
+        <p><a href="graphics-pipeline.html">图形管线速记</a></p>
+        <p><a href="vulkan-notes.html">Vulkan 学习清单</a></p>
+      </div>
+      <div class="panel">
+        <h3>Status</h3>
+        <p>待补充：论文细节与实现对照。</p>
+      </div>
+    </aside>
+  </div>
+
+  <footer>Hand-crafted notes, 2026.</footer>
+  <script src="../app.js"></script>
+</body>
+</html>

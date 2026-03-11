@@ -1,0 +1,4235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:cdr="http://schemas.openxmlformats.org/drawingml/2006/chartDrawing" xmlns:c14="http://schemas.microsoft.com/office/drawing/2007/8/2/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:xvml="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:cppr="http://schemas.microsoft.com/office/2006/coverPageProps" xmlns:odx="http://opendope.org/xpaths" xmlns:odc="http://opendope.org/conditions" xmlns:odq="http://opendope.org/questions" xmlns:oda="http://opendope.org/answers" xmlns:odi="http://opendope.org/components" xmlns:odgm="http://opendope.org/SmartArt/DataHierarchy" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:wetp="http://schemas.microsoft.com/office/webextensions/taskpanes/2010/11" xmlns:we="http://schemas.microsoft.com/office/webextensions/webextension/2010/11" xmlns:comp="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas">
+    <w:body><!-- Created by docx4j 6.1.2 (Apache licensed) using REFERENCE JAXB in Oracle Java 1.8.0_131 on Linux -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>UE Nanite 体素</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u1b8e6e4e" w:id="0"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>主要参考了这篇文章：（顺藤摸瓜</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="0"/>
+        <w:bookmarkStart w:name="ua431dfd8" w:id="1"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:hyperlink r:id="rId4">
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                        <w:b w:val="false"/>
+                        <w:i w:val="false"/>
+                        <w:color w:val="0000ff"/>
+                        <w:sz w:val="22"/>
+                        <w:u w:val="single"/>
+                    </w:rPr>
+                    <w:t/>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                        <w:b w:val="false"/>
+                        <w:i w:val="false"/>
+                        <w:color w:val="0000ff"/>
+                        <w:sz w:val="22"/>
+                    </w:rPr>
+                    <w:t>https://zhuanlan.zhihu.com/p/1962121162306846748</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:bookmarkEnd w:id="1"/>
+        <w:bookmarkStart w:name="u86278520" w:id="2"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>项目设置里面勾选nanite植被</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="2"/>
+        <w:bookmarkStart w:name="u424fa360" w:id="3"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u6f2ee648" w:id="4"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="3353061"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId5"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="9973734" cy="5724502"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="4"/>
+        </w:p>
+        <w:bookmarkEnd w:id="3"/>
+        <w:bookmarkStart w:name="u0af64f39" w:id="5"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>启用Procedural Vegetation Editor插件</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="5"/>
+        <w:bookmarkStart w:name="ud8f1c06c" w:id="6"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u61de26d0" w:id="7"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="3358926"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId6"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="9990666" cy="5744250"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="7"/>
+        </w:p>
+        <w:bookmarkEnd w:id="6"/>
+        <w:bookmarkStart w:name="u5f9281fe" w:id="8"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>创建Nanite 体素植被，这个插件自带了几种不同的植被，可以直接导出查看效果。</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="8"/>
+        <w:bookmarkStart w:name="uca7adf6d" w:id="9"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u8c6cb5a8" w:id="10"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="3288958"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId7"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="19930533" cy="11220590"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="10"/>
+        </w:p>
+        <w:bookmarkEnd w:id="9"/>
+        <w:bookmarkStart w:name="ub9ae36e0" w:id="11"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>导入场景后，可以通过 命令调用r.Nanite.ViewMeshLODBias.Offset 调整LODbias参数来更直观查看体素化渲染效果。</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="11"/>
+        <w:bookmarkStart w:name="u8b5fcae5" w:id="12"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u0c5e21cf" w:id="13"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="3115733" cy="1752525"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId8"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="3115733" cy="1752525"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="13"/>
+        </w:p>
+        <w:bookmarkEnd w:id="12"/>
+        <w:bookmarkStart w:name="ucc832772" w:id="14"/>
+        
+        <w:bookmarkEnd w:id="14"/>
+        <w:bookmarkStart w:name="u8aa14a26" w:id="15"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>Nanite Voxel</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="15"/>
+        <w:bookmarkStart w:name="u3d4eef3a" w:id="16"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>核心数据结构：</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="16"/>
+        <w:bookmarkStart w:name="u8c37878c" w:id="17"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u8341f7e0" w:id="18"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="2590800" cy="118933"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId9"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="2590800" cy="118933"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="18"/>
+        </w:p>
+        <w:bookmarkEnd w:id="17"/>
+        <w:bookmarkStart w:name="udaa71e93" w:id="19"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u15bbbe89" w:id="20"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5469466" cy="6601083"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId10"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5469466" cy="6601083"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="20"/>
+        </w:p>
+        <w:bookmarkEnd w:id="19"/>
+        <w:bookmarkStart w:name="uc3d5ecfa" w:id="21"/>
+        
+        <w:bookmarkEnd w:id="21"/>
+        <w:bookmarkStart w:name="u100c4f51" w:id="22"/>
+        
+        <w:bookmarkEnd w:id="22"/>
+        <w:bookmarkStart w:name="u5547e26c" w:id="23"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ufc9c141a" w:id="24"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5063067" cy="4228512"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId11"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5063067" cy="4228512"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="24"/>
+        </w:p>
+        <w:bookmarkEnd w:id="23"/>
+        <w:bookmarkStart w:name="ud1a8e3e3" w:id="25"/>
+        
+        <w:bookmarkEnd w:id="25"/>
+        <w:bookmarkStart w:name="mwvMj" w:id="26"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>阶段一、cluster三角簇体素化</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="26"/>
+        <w:bookmarkStart w:name="uf65a02e6" w:id="27"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>cluster.cpp</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="27"/>
+        <w:bookmarkStart w:name="u52ac3e08" w:id="28"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u816ffcbe" w:id="29"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="181099"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId12"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8602134" cy="266662"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="29"/>
+        </w:p>
+        <w:bookmarkEnd w:id="28"/>
+        <w:bookmarkStart w:name="nF0GD" w:id="30"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>VoxelSize计算方式</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="30"/>
+        <w:bookmarkStart w:name="u94eb20a2" w:id="31"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u279b328e" w:id="32"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="1734887"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId13"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6180666" cy="1835460"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="32"/>
+        </w:p>
+        <w:bookmarkEnd w:id="31"/>
+        <w:bookmarkStart w:name="u0c3ea218" w:id="33"/>
+        <w:p>
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="360"/><w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>初始体素尺寸</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>：</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="33"/>
+        <w:bookmarkStart w:name="u9efb7eba" w:id="34"/>
+        <w:p>
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="720"/><w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>GroupArea</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>= 子簇表面积（考虑实例缩放）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="34"/>
+        <w:bookmarkStart w:name="u9b160924" w:id="35"/>
+        <w:p>
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="720"/><w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Courier New" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                    <w:shd w:fill="f8f8fa"/>
+                </w:rPr>
+                <w:t>VoxelSize = sqrt(GroupArea / TargetNumVoxels) × 0.75</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="35"/>
+        <w:bookmarkStart w:name="ue1a18092" w:id="36"/>
+        <w:p>
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="720"/><w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Courier New" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                    <w:shd w:fill="f8f8fa"/>
+                </w:rPr>
+                <w:t>VoxelSize = max(VoxelSize, Group.ParentLODError)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>（不低于当前父误差）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="36"/>
+        <w:bookmarkStart w:name="uef549ebf" w:id="37"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u6d2aa696" w:id="38"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="3002598"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId14"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="13749867" cy="7066986"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="38"/>
+        </w:p>
+        <w:bookmarkEnd w:id="37"/>
+        <w:bookmarkStart w:name="ua91fccfb" w:id="39"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>若最终不满足 体素化尺寸小于三角形简化误差，fallback到三角形路径</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="39"/>
+        <w:bookmarkStart w:name="ucf765bed" w:id="40"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u630b52fd" w:id="41"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="3437467" cy="979776"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId15"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="3437467" cy="979776"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="41"/>
+        </w:p>
+        <w:bookmarkEnd w:id="40"/>
+        <w:bookmarkStart w:name="wTHfO" w:id="42"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:color w:val="191b1f"/>
+                </w:rPr>
+                <w:t>顶点格式整合：汇总所有子簇的最宽顶点格式；若子簇包含颜色，则开启颜色通道。</w:t>
+            </w:r>
+            <w:bookmarkStart w:name="hzIRb" w:id="43"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="765296"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId16"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="9127066" cy="1195637"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="43"/>
+        </w:p>
+        <w:bookmarkEnd w:id="42"/>
+        <w:bookmarkStart w:name="xWVTU" w:id="44"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>粗略体素化 VoxelTri26</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="44"/>
+        <w:bookmarkStart w:name="u858437cd" w:id="45"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>对三角簇内的每个三角形，先转换至世界坐标，然后根据体素尺寸转换到体素分辨率下</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="45"/>
+        <w:bookmarkStart w:name="u74d6515f" w:id="46"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u2ad17ec0" w:id="47"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="3411581"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId17"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7789334" cy="4548776"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="47"/>
+        </w:p>
+        <w:bookmarkEnd w:id="46"/>
+        <w:bookmarkStart w:name="u2aad0c61" w:id="48"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>通过Rasterizer.h下的Voxelize写入三角形所有触及体素</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="48"/>
+        <w:bookmarkStart w:name="u81870b3b" w:id="49"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u44d9cede" w:id="50"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="531617"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId18"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8365066" cy="761215"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="50"/>
+        </w:p>
+        <w:bookmarkEnd w:id="49"/>
+        <w:bookmarkStart w:name="u87230205" w:id="51"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>VoxelizeTri26（26领域连接体素化）是一个保守光栅化算法，选择法线最垂直的投影面作为main投影面</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="51"/>
+        <w:bookmarkStart w:name="u6585c4fa" w:id="52"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>三个投影面同时通过则通过回调函数写入该体素，记录该体素的三角重心坐标用于后续插值，实际传入的回调函数就是这个VoxelMap.add</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="52"/>
+        <w:bookmarkStart w:name="u448bb0fb" w:id="53"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u1c925c48" w:id="54"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="1039820"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId19"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7518400" cy="1338204"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="54"/>
+        </w:p>
+        <w:bookmarkEnd w:id="53"/>
+        <w:bookmarkStart w:name="ue0acb04c" w:id="55"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>如果已经是体素砖的形式，则通过这段逻辑写入voxelmap</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="55"/>
+        <w:bookmarkStart w:name="u8b531928" w:id="56"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u8f1d8753" w:id="57"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="4696711"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId20"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8517466" cy="6847668"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="57"/>
+        </w:p>
+        <w:bookmarkEnd w:id="56"/>
+        <w:bookmarkStart w:name="pbu11" w:id="58"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>RAY_TRACE_VOXELS 体素剔除与合并</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="58"/>
+        <w:bookmarkStart w:name="u4a47f9f8" w:id="59"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>如果打开这个开关，会对每一个体素做一个ray_tracc_scene来sample这个体素表征的三角形</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="59"/>
+        <w:bookmarkStart w:name="u8516426a" w:id="60"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="uf257cf3f" w:id="61"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="1869369"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId21"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7044266" cy="2254080"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="61"/>
+        </w:p>
+        <w:bookmarkEnd w:id="60"/>
+        <w:bookmarkStart w:name="uaf3a1875" w:id="62"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>使用提前创建好的rays，按照16根ray一组</w:t>
+            </w:r>
+            <w:bookmarkStart w:name="uc2b46311" w:id="63"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="1693997"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId22"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8652934" cy="2509080"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="63"/>
+        </w:p>
+        <w:bookmarkEnd w:id="62"/>
+        <w:bookmarkStart w:name="u7e892a3d" w:id="64"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>提前创建64组rays，使用循环索引让空间上相邻的体素使用不同的光线模式，应该是避免pattern</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="64"/>
+        <w:bookmarkStart w:name="uf565444a" w:id="65"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u4a837c1e" w:id="66"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5452534" cy="218080"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId23"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5452534" cy="218080"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="66"/>
+        </w:p>
+        <w:bookmarkEnd w:id="65"/>
+        <w:bookmarkStart w:name="ua63fb938" w:id="67"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>对每个体素计算coverage，coverage表征体素的”厚薄“</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="67"/>
+        <w:bookmarkStart w:name="ub9074d2d" w:id="68"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u6a781cf3" w:id="69"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5147733" cy="1276494"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId24"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5147733" cy="1276494"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="69"/>
+        </w:p>
+        <w:bookmarkEnd w:id="68"/>
+        <w:bookmarkStart w:name="uf0594723" w:id="70"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>对于coverage等于0.0（射线检测没有打到任何三角形）的体素执行剔除，放到这个ExtraVoxels里面，这些还要用</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="70"/>
+        <w:bookmarkStart w:name="u35d5a463" w:id="71"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="uc26a8d30" w:id="72"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="1016446"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId25"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8754534" cy="1523196"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="72"/>
+        </w:p>
+        <w:bookmarkEnd w:id="71"/>
+        <w:bookmarkStart w:name="u1a75a081" w:id="73"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>coverageHeap是一个小顶堆，对覆盖率低的体素进行合并操作（这个贡献率合并的操作要保证</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Courier New" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="f9fafb"/>
+                    <w:sz w:val="24"/>
+                    <w:shd w:fill="2c2c2e"/>
+                </w:rPr>
+                <w:t>bVoxelOpacity = false</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>）默认是开启的</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="73"/>
+        <w:bookmarkStart w:name="u6137d77d" w:id="74"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u990f28e4" w:id="75"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="4445444"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId26"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7484534" cy="5695324"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="75"/>
+        </w:p>
+        <w:bookmarkEnd w:id="74"/>
+        <w:bookmarkStart w:name="u81ccd34c" w:id="76"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>一句话概况合并规则：根据射线统计到的法线朝向分布，法线投影平面大的邻居得到的权重高，如果体素自身权重高（已经很实心）接受的新属性就偏低（保留自身属性），如果被吸收的这个体素覆盖率低，多保留原有属性。</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="76"/>
+        <w:bookmarkStart w:name="u96af33e2" w:id="77"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u71f738f3" w:id="78"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="4819144"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId27"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8906934" cy="7347450"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="78"/>
+        </w:p>
+        <w:bookmarkEnd w:id="77"/>
+        <w:bookmarkStart w:name="WKcKF" w:id="79"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>生成体素顶点</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="79"/>
+        <w:bookmarkStart w:name="uaee21994" w:id="80"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ua7633a2d" w:id="81"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="3481757"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId28"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="9347200" cy="5570812"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="81"/>
+        </w:p>
+        <w:bookmarkEnd w:id="80"/>
+        <w:bookmarkStart w:name="u00213696" w:id="82"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="191b1f"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t xml:space="preserve">通过命中三角重心执行 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Courier New" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="191b1f"/>
+                    <w:sz w:val="22"/>
+                    <w:shd w:fill="f8f8fa"/>
+                </w:rPr>
+                <w:t>LerpAttributes</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="82"/>
+        <w:bookmarkStart w:name="izaQX" w:id="83"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:color w:val="191b1f"/>
+                </w:rPr>
+                <w:t>体素打包成砖</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="83"/>
+        <w:bookmarkStart w:name="u94cca72f" w:id="84"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>voxelmap &lt;key,value></w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="84"/>
+        <w:bookmarkStart w:name="u8935b252" w:id="85"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>key是体素坐标，value是体素顶点索引</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="85"/>
+        <w:bookmarkStart w:name="u0830a98c" w:id="86"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>对体素按照空间4*4*4划分排序</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="86"/>
+        <w:bookmarkStart w:name="u8c74fa9e" w:id="87"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>优先对材质排序，然后按照zyx</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="87"/>
+        <w:bookmarkStart w:name="u92791400" w:id="88"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="uc757fb62" w:id="89"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="2488559"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId29"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="8771466" cy="3736446"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="89"/>
+        </w:p>
+        <w:bookmarkEnd w:id="88"/>
+        <w:bookmarkStart w:name="uc2d8e2f4" w:id="90"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>砖块位置对齐到4，一个砖块内的体素材质相同</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="90"/>
+        <w:bookmarkStart w:name="u502cd008" w:id="91"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u84b2255f" w:id="92"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="4784324"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId30"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7010400" cy="5741190"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="92"/>
+        </w:p>
+        <w:bookmarkEnd w:id="91"/>
+        <w:bookmarkStart w:name="KiH3X" w:id="93"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>阶段二、处理体素三角簇子簇</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="93"/>
+        <w:bookmarkStart w:name="u9632bc66" w:id="94"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>计算砖块内体素的平均位置作为砖块中心，随机选择一个体素作为属性来源</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="94"/>
+        <w:bookmarkStart w:name="u0c776753" w:id="95"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>法线：如果开启 bVoxelNDF 用NDF得到，否则来自随机体素的属性</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="95"/>
+        <w:bookmarkStart w:name="uab7bca99" w:id="96"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>位置：体素砖平均位置</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="96"/>
+        <w:bookmarkStart w:name="u58dafa43" w:id="97"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>大小：体素砖的实心程度</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="97"/>
+        <w:bookmarkStart w:name="u3b216833" w:id="98"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>属性：来源于随机体素</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="98"/>
+        <w:bookmarkStart w:name="u02fc44f2" w:id="99"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u73b54732" w:id="100"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="3674541"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId31"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="12886267" cy="8105294"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="100"/>
+        </w:p>
+        <w:bookmarkEnd w:id="99"/>
+        <w:bookmarkStart w:name="u51857846" w:id="101"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>对所有子簇都进行处理，最终父簇变成普通的三角簇，带有一个bVoxelTriangle的标记，和一个VoxelTriangle数组</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="101"/>
+        <w:bookmarkStart w:name="u6ff95720" w:id="102"/>
+        
+        <w:bookmarkEnd w:id="102"/>
+        <w:bookmarkStart w:name="ecACS" w:id="103"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>阶段三、Nanite Voxel渲染</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="103"/>
+        <w:bookmarkStart w:name="uab7a95ee" w:id="104"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>代码见 NaniteRasterizer.usf</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="104"/>
+        <w:bookmarkStart w:name="u0104c3e1" w:id="105"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>入口函数：ClusterTraceBricks</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="105"/>
+        <w:bookmarkStart w:name="u6c617e2f" w:id="106"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ua9df0639" w:id="107"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="1962612"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId32"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6112934" cy="2053632"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="107"/>
+        </w:p>
+        <w:bookmarkEnd w:id="106"/>
+        <w:bookmarkStart w:name="u0f638f00" w:id="108"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>总体思想：从像素raymarching体素砖</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="108"/>
+        <w:bookmarkStart w:name="u3d59b504" w:id="109"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>1、只拿到visibleCluster</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="109"/>
+        <w:bookmarkStart w:name="u39073cfa" w:id="110"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u69712c94" w:id="111"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="227814"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId33"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7924800" cy="309036"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="111"/>
+        </w:p>
+        <w:bookmarkEnd w:id="110"/>
+        <w:bookmarkStart w:name="u908b0746" w:id="112"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>2、对逐体素砖计算一个近似屏幕空间范围大小，在这个范围内的像素才做体素追踪</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="112"/>
+        <w:bookmarkStart w:name="ubc6a60a3" w:id="113"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ub9c03b90" w:id="114"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="438140"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId34"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="9601200" cy="720075"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="114"/>
+        </w:p>
+        <w:bookmarkEnd w:id="113"/>
+        <w:bookmarkStart w:name="u28d5ef70" w:id="115"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>渲染单位：体素砖</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="115"/>
+        <w:bookmarkStart w:name="u7c4d1b8e" w:id="116"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>对砖投影的像素范围内：</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="116"/>
+        <w:bookmarkStart w:name="u9cb537a8" w:id="117"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>1）、AABB检测，不相交跳过</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="117"/>
+        <w:bookmarkStart w:name="u892cb9e3" w:id="118"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>2）、DDA算法</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="118"/>
+        <w:bookmarkStart w:name="uf84eed35" w:id="119"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>这里的DDA完全是对这重4*4*4的数据结构的优化，提前规定好，x步进±1，y步进±4，z步进±16</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="119"/>
+        <w:bookmarkStart w:name="u45798eb1" w:id="120"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ub61e870e" w:id="121"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="2032895"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId35"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6756400" cy="2351088"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="121"/>
+        </w:p>
+        <w:bookmarkEnd w:id="120"/>
+        <w:bookmarkStart w:name="u61344a89" w:id="122"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>遍历体素砖，如果命中体素，立即break，然后构造写入像素，这里DDA只需要计算深度，写入的体素顶点信息可以从体素砖拿到</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="122"/>
+        <w:bookmarkStart w:name="u510f79da" w:id="123"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="uc963b908" w:id="124"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="3627693"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId36"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="10278534" cy="6382638"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="124"/>
+        </w:p>
+        <w:bookmarkEnd w:id="123"/>
+        <w:bookmarkStart w:name="u9f08cb31" w:id="125"/>
+        
+        <w:bookmarkEnd w:id="125"/>
+        <w:bookmarkStart w:name="u5dfcd916" w:id="126"/>
+        
+        <w:bookmarkEnd w:id="126"/>
+        <w:bookmarkStart w:name="Zgh4W" w:id="127"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>总结：</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="127"/>
+        <w:bookmarkStart w:name="ue45c6d5b" w:id="128"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>Nanite_Voxle理解起来还是比较简单，其实耗费我时间较多的地方在于了解Nanite流程（好复杂，主要参考了</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="128"/>
+        <w:bookmarkStart w:name="u527a30ec" w:id="129"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:hyperlink r:id="rId37">
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                        <w:b w:val="false"/>
+                        <w:i w:val="false"/>
+                        <w:color w:val="0000ff"/>
+                        <w:sz w:val="22"/>
+                        <w:u w:val="single"/>
+                    </w:rPr>
+                    <w:t/>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                        <w:b w:val="false"/>
+                        <w:i w:val="false"/>
+                        <w:color w:val="0000ff"/>
+                        <w:sz w:val="22"/>
+                    </w:rPr>
+                    <w:t>https://zhuanlan.zhihu.com/p/1674561095</w:t>
+                </w:r>
+            </w:hyperlink>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>，而UE的体素渲染妙就妙在和Nanite原有流程的完美融合，知乎原文的simpy过程我还没和nanite串联起来，本文也就没有写到，只要DDA写入到了visibily buffer之后，后续的渲染就不再关心像素着色来源于体素或是三角形</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="129"/>
+        <w:bookmarkStart w:name="u10e9fcf2" w:id="130"/>
+        
+        <w:bookmarkEnd w:id="130"/>
+        <w:bookmarkStart w:name="uc87466ea" w:id="131"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>关于文章：</w:t>
+            </w:r>
+            <w:hyperlink r:id="rId38">
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                        <w:b w:val="false"/>
+                        <w:i w:val="false"/>
+                        <w:color w:val="0000ff"/>
+                        <w:sz w:val="22"/>
+                        <w:u w:val="single"/>
+                    </w:rPr>
+                    <w:t/>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                        <w:b w:val="false"/>
+                        <w:i w:val="false"/>
+                        <w:color w:val="0000ff"/>
+                        <w:sz w:val="22"/>
+                    </w:rPr>
+                    <w:t>https://mangosister.github.io/scene_agn_site/</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:bookmarkEnd w:id="131"/>
+        <w:bookmarkStart w:name="ua9901cf6" w:id="132"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u8a0c718c" w:id="133"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5825066" cy="7368625"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId39"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5825066" cy="7368625"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="133"/>
+        </w:p>
+        <w:bookmarkEnd w:id="132"/>
+        <w:bookmarkStart w:name="u5b9a63f0" w:id="134"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>提出的传统体素问题：</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="134"/>
+        <w:bookmarkStart w:name="u6dc5ba20" w:id="135"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>问题一、相关性问题 ： 体素间怎么影响</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> 子问题1、体素内的几何并不是均匀几何填充</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="135"/>
+        <w:bookmarkStart w:name="u4a7c99f8" w:id="136"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> 子问题2、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>aggregated interior visibility</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>(AIV) (用来解决正确的体素累计结果？</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="136"/>
+        <w:bookmarkStart w:name="uc7e1ab3b" w:id="137"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>section 6.1</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="137"/>
+        <w:bookmarkStart w:name="u3f5f52e2" w:id="138"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>立方体体素具有厚度，当像素平面不与体素空间轴对齐时，一个pixel会受到接受多个体素的贡献值（即使我们已经做到了体素分辨率是像素的两倍以满足香农采样率，(原文原话说的是体素分辨率不是要满足图像分辨率的两倍，而是要满足几何细节最高频率的两倍）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="138"/>
+        <w:bookmarkStart w:name="uadd25ee8" w:id="139"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>但是Nanite Voxle 体素在渲染的时候打到一个体素即停下写入该体素砖信息，但是不代表这个问题不存在，（两个像素本该写入体素A和B可能会写成两个A，这似乎是一个各向异性的问题，我个人理解</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="139"/>
+        <w:bookmarkStart w:name="ue88fc5a7" w:id="140"/>
+        
+        <w:bookmarkEnd w:id="140"/>
+        <w:bookmarkStart w:name="u7a8c1ba1" w:id="141"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>第二层原因</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="141"/>
+        <w:bookmarkStart w:name="u724a4874" w:id="142"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>Nanite Voxle将mesh转成体素进行滤波或者降采样，问题在于几何相关性的丢失，RAY_TRACE_VOXLE通过发射射线来获得这个体素的覆盖率，法线分布（raycount只对这两个做贡献，所以nanite voxle是假设几何均与分布的），属性等等本质上是平均。</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="142"/>
+        <w:bookmarkStart w:name="ue8b128e6" w:id="143"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u81b969db" w:id="144"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="1775936"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId40"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="11379200" cy="3459216"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="144"/>
+        </w:p>
+        <w:bookmarkEnd w:id="143"/>
+        <w:bookmarkStart w:name="u42f61690" w:id="145"/>
+        
+        <w:bookmarkEnd w:id="145"/>
+        <w:bookmarkStart w:name="ufb0318de" w:id="146"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>论文提出的解决方案：</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="146"/>
+        <w:bookmarkStart w:name="u7e4a8af6" w:id="147"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>用截断椭球解决这个局部相关性</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="147"/>
+        <w:bookmarkStart w:name="uaeb94129" w:id="148"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>aggregated boundary visibility</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>(ABV)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="148"/>
+        <w:bookmarkStart w:name="ue5244a82" w:id="149"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u150d9082" w:id="150"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5757334" cy="978690"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId41"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5757334" cy="978690"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="150"/>
+        </w:p>
+        <w:bookmarkEnd w:id="149"/>
+        <w:bookmarkStart w:name="ud412f6b6" w:id="151"/>
+        
+        <w:bookmarkEnd w:id="151"/>
+        <w:bookmarkStart w:name="u80ab3cdf" w:id="152"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>问题二、体素应该存一个什么东西才能知道这个体素看起来像什么，让体素从一个分辨率网格->实际的物理模型</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="152"/>
+        <w:bookmarkStart w:name="u43e073e1" w:id="153"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>（个人理解）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="153"/>
+        <w:bookmarkStart w:name="ucf9a5084" w:id="154"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>解决方案：提出了一个ABSDF（个人理解就是体素的材质）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="154"/>
+        <w:bookmarkStart w:name="ud68cd790" w:id="155"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u8d1b86f4" w:id="156"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="1951075"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId42"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5977466" cy="1996318"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="156"/>
+        </w:p>
+        <w:bookmarkEnd w:id="155"/>
+        <w:bookmarkStart w:name="ua50bc31f" w:id="157"/>
+        
+        <w:bookmarkEnd w:id="157"/>
+        <w:bookmarkStart w:name="u949da330" w:id="158"/>
+        
+        <w:bookmarkEnd w:id="158"/>
+        <w:bookmarkStart w:name="TpUx0" w:id="159"/>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                </w:rPr>
+                <w:t>如何改造nanite 现有的voxle pass？</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="159"/>
+        <w:bookmarkStart w:name="u1b6fb905" w:id="160"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>其实看代码里面这个bVoxleOpacity注释了TEMP，可能是UE的一个TODO feature，目前把这个东西存在体素定点里面了</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="160"/>
+        <w:bookmarkStart w:name="u3d4ad566" w:id="161"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ucdf83b3f" w:id="162"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="4978400" cy="1126447"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId43"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="4978400" cy="1126447"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="162"/>
+        </w:p>
+        <w:bookmarkEnd w:id="161"/>
+        <w:bookmarkStart w:name="uea7acee4" w:id="163"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>步骤一、改造DDA为累计体素砖内的体素</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="163"/>
+        <w:bookmarkStart w:name="u3b228558" w:id="164"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>这样就能出现论文中提到的double counting问题，以及打到多个体素的时候这个材质怎么算的问题（ABSDF）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="164"/>
+        <w:bookmarkStart w:name="u91fbfe8f" w:id="165"/>
+        
+        <w:bookmarkEnd w:id="165"/>
+        <w:bookmarkStart w:name="u6eeae240" w:id="166"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>步骤二、给nanite voxle做新的材质处理（这个理解会不会太简单粗暴了点。。。）</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="166"/>
+        <w:bookmarkStart w:name="u4243a87a" w:id="167"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>个人理解：一开始我把这个ABSDF和这个截断椭圆分开来想，后来我发现本质就是给每个体素记录这个体素的材质来解决各种累计问题，而截断椭圆只是其中ABSDF中各项异性这一项的解决方案。</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="167"/>
+        <w:bookmarkStart w:name="u211a0a33" w:id="168"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>所以要在nanite voxle里面粗糙实现原文效果，就是改变RAY_TRACE_VOXLE的统计逻辑</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="168"/>
+        <w:bookmarkStart w:name="u5dd45a61" w:id="169"/>
+        
+        <w:bookmarkEnd w:id="169"/>
+        <w:bookmarkStart w:name="u8fb0d1a8" w:id="170"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>现有逻辑：材质用的是sample到的最后一个三角形的材质</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="170"/>
+        <w:bookmarkStart w:name="ud99dd28f" w:id="171"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u5781f8e6" w:id="172"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="1069067"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId44"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="11379200" cy="2082357"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="172"/>
+        </w:p>
+        <w:bookmarkEnd w:id="171"/>
+        <w:bookmarkStart w:name="u7a602fe4" w:id="173"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u125ed96c" w:id="174"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="2284064"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId45"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6739466" cy="2634949"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="174"/>
+        </w:p>
+        <w:bookmarkEnd w:id="173"/>
+        <w:bookmarkStart w:name="u6e6549d0" w:id="175"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>问题：是给每个体素顶点构造一个新的材质（胡诌的，完全不知道行不行得通）？还是给每个体素记录统计数据</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="175"/>
+        <w:bookmarkStart w:name="u7d122c16" w:id="176"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>参考UE实现，UE已经弄了一个SGGX法线分布</w:t>
+            </w:r>
+            <w:bookmarkStart w:name="u50b1c2eb" w:id="177"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="1822603"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId46"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="7264400" cy="2266368"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="177"/>
+        </w:p>
+        <w:bookmarkEnd w:id="176"/>
+        <w:bookmarkStart w:name="uf378cbd9" w:id="178"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u06503d11" w:id="179"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="2675497"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId47"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="9025466" cy="4133450"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="179"/>
+        </w:p>
+        <w:bookmarkEnd w:id="178"/>
+        <w:bookmarkStart w:name="u47fede5d" w:id="180"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>还需要新增什么呢？</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="180"/>
+        <w:bookmarkStart w:name="u58541d39" w:id="181"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>1、看得比较晕，大体上就是一个新的粗糙度表示</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="181"/>
+        <w:bookmarkStart w:name="ue56d58e0" w:id="182"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u2cb1df11" w:id="183"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="3931171"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId48"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6891866" cy="4637643"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="183"/>
+        </w:p>
+        <w:bookmarkEnd w:id="182"/>
+        <w:bookmarkStart w:name="uecf287b0" w:id="184"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>2、方向性材质矩</w:t>
+            </w:r>
+            <w:bookmarkStart w:name="u279f1fe4" w:id="185"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="4457446"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId49"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6858000" cy="5232654"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="185"/>
+        </w:p>
+        <w:bookmarkEnd w:id="184"/>
+        <w:bookmarkStart w:name="u57306253" w:id="186"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>3、各向异性表，一个截断椭球函数</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="186"/>
+        <w:bookmarkStart w:name="u8606ba44" w:id="187"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ua6d12d1e" w:id="188"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5841999" cy="3750294"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId50"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6485466" cy="4163370"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="188"/>
+        </w:p>
+        <w:bookmarkEnd w:id="187"/>
+        <w:bookmarkStart w:name="u5d66aeac" w:id="189"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>4、AIV，聚合内部可见性函数</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="189"/>
+        <w:bookmarkStart w:name="u72dade2c" w:id="190"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="u4e46762a" w:id="191"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="2587782"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId51"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6959600" cy="3082837"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="191"/>
+        </w:p>
+        <w:bookmarkEnd w:id="190"/>
+        <w:bookmarkStart w:name="u5784cff6" w:id="192"/>
+        
+        <w:bookmarkEnd w:id="192"/>
+        <w:bookmarkStart w:name="u84d14825" w:id="193"/>
+        
+        <w:bookmarkEnd w:id="193"/>
+        <w:bookmarkStart w:name="ue1250ed4" w:id="194"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>疑问1、如果是要实现原论文的这套Voxle 渲染Pass似乎和VXGI相去甚远，Nanite Voxle只要写入了visibility buffer后续的材质执行流程和原来的nanite流程是统一的</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="194"/>
+        <w:bookmarkStart w:name="u68deadb3" w:id="195"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ube281bec" w:id="196"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5842000" cy="484886"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId52"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="6350000" cy="527050"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="196"/>
+        </w:p>
+        <w:bookmarkEnd w:id="195"/>
+        <w:bookmarkStart w:name="uf08cb8c5" w:id="197"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="Times New Roman" w:eastAsia="宋体"/>
+                    <w:b w:val="false"/>
+                    <w:i w:val="false"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>疑问2、VXGI 的cone tracing管线是利用cone tracing体素来解决GI问题（用cone tracing代替多条多次采样结果），但是nanite体素似乎和cone tracing没什么联系</w:t>
+            </w:r>
+        </w:p>
+        <w:bookmarkEnd w:id="197"/>
+        <w:bookmarkStart w:name="uc6ec71e3" w:id="198"/>
+        <w:p>
+            <w:pPr>
+                <w:spacing w:after="50" w:line="360" w:lineRule="auto" w:beforeLines="100"/>
+                <w:ind w:left="0"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:bookmarkStart w:name="ud0b91e50" w:id="199"/>
+            <w:r>
+                <w:rPr><w:rFonts w:eastAsia="宋体" w:ascii="宋体"/></w:rPr><w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5249334" cy="5217506"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="0" name="" descr=""/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="true"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic>
+    <pic:nvPicPr>
+        <pic:cNvPr id="1" name=""/>
+        <pic:cNvPicPr/>
+    </pic:nvPicPr>
+    <pic:blipFill>
+        <a:blip r:embed="rId53"/>
+        <a:stretch>
+            <a:fillRect/>
+        </a:stretch>
+    </pic:blipFill>
+    <pic:spPr>
+        <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="5249334" cy="5217506"/>
+        </a:xfrm>
+        <a:prstGeom prst="rect">
+            <a:avLst/>
+        </a:prstGeom>
+    </pic:spPr>
+</pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="199"/>
+        </w:p>
+        <w:bookmarkEnd w:id="198"/>
+        <w:sectPr>
+            <w:pgSz w:w="11907" w:h="16839" w:code="9"/>
+            <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
